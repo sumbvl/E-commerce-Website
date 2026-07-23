@@ -114,6 +114,7 @@ body {
 
 .middle button {
     font-weight: 600;
+    font-size: 15px;
     margin: 20px;
     margin-top: 40px;
     display: flex;
