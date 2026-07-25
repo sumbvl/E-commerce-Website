@@ -22,6 +22,10 @@ body {
     align-items: center;
     justify-content: space-between;
     background-color: #C05A7D;
+    box-shadow: 0 0 12px 0 #815363;
+    position: sticky;
+    top: 0;
+    z-index: 100;
 }
 
 .header {
@@ -185,7 +189,8 @@ body {
 }
 
 .yum h1 {
-    width: 100%;
+    width: 60%;
+    margin: 60px auto;
     text-align: center;
     margin: 60px;
     padding-top: 90px;
@@ -193,6 +198,9 @@ body {
     color: #C05A7D;
     font-weight: 600;
     font-size: 40px;
+    border-radius: 40px;
+    background: linear-gradient(135deg, mistyrose, #edaec2);
+    box-shadow: 0 4px 10px rgba(192, 90, 125, 0.3);
 }
 
 .yum img {
@@ -205,3 +213,4 @@ body {
     width: 310px;
     height: 370px;
 }
+
