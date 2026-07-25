@@ -11,7 +11,7 @@ html {
 
 body {
     min-height: 100vh;
-    background: linear-gradient(#f5e1e8, #f5bcce);
+    background: linear-gradient(150deg, #f5e1e8, #ffaac5 25%, #f397b4);
 }
 
 .navigation {
