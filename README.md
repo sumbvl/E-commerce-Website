@@ -1,6 +1,8 @@
+https://github.com/user-attachments/assets/0083387e-5259-45f9-ad4c-2be5305af75b
+
 ## Ecommerce Website — Business Landing Page
 
-A responsive single-page website built with vanilla HTML, CSS, and JavaScript. No frameworks, no build tools — pure front-end fundamentals.
+A responsive single-page website built with vanilla HTML, CSS, and JavaScript. No frameworks, no build tools just pure front-end fundamentals.
 
 ## Tech Stack
 - HTML5 — semantic structure, sectioned layout
